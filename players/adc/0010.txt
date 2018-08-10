@@ -1,0 +1,17 @@
+self.image = players/mid/photos/kami.png
+self.code = 0010
+self.function = adc
+self.name = Pedro
+self.nickname = Matsukaze
+self.last_Name = Gama
+self.team = 0001
+self.especiatility = kiting
+self.mechanics = 78
+self.game_Vision = 74
+self.team_Play = 72
+self.aggressivity = 78
+self.passivity = 68
+self.kiting = 74
+self.posicion = 65
+self.farming = 72
+self.motivation = 100

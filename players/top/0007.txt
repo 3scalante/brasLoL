@@ -1,0 +1,16 @@
+self.image = players/mid/photos/kami.png
+self.code = 0007
+self.function = top
+self.name = Matheus
+self.nickname = Mylon
+self.last_Name = Borges
+self.team = 0001
+self.especiatility = assassin
+self.mechanics = 80
+self.game_Vision = 70
+self.team_Play = 68
+self.aggressivity = 80
+self.passivity = 70
+self.roaming = 75
+self.farming = 70
+self.motivation = 100

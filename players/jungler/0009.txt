@@ -1,0 +1,17 @@
+self.image = players/mid/photos/kami.png
+self.code = 0009
+self.function = jungler
+self.name = Rodrigo
+self.nickname = Tay
+self.last_Name = Panisa
+self.team = 0001
+self.especiatility = gank
+self.mechanics = 72
+self.game_Vision = 68
+self.team_Play = 68
+self.aggressivity = 78
+self.passivity = 64
+self.gank_effectivity = 78
+self.farming = 72
+self.smite = 72
+self.motivation = 100

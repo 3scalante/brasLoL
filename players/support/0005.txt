@@ -1,0 +1,17 @@
+self.image = players/mid/photos/kami.png
+self.code = 0005
+self.function = support
+self.name = Luan
+self.nickname = Jockster
+self.last_Name = Cardoso de Meira
+self.team = 0002
+self.especiatility = gank
+self.mechanics = 70
+self.game_Vision = 80
+self.team_Play = 70
+self.aggressivity = 75
+self.passivity = 62
+self.gank_effectivity = 78
+self.warding = 70
+self.protect = 70
+self.motivation = 100

@@ -1,0 +1,17 @@
+self.image = players/mid/photos/kami.png
+self.code = 0004
+self.function = jungler
+self.name = Gabriel
+self.nickname = Turtle
+self.last_Name = Peixoto
+self.team = 0002
+self.especiatility = gank
+self.mechanics = 70
+self.game_Vision = 68
+self.team_Play = 70
+self.aggressivity = 75
+self.passivity = 62
+self.gank_effectivity = 78
+self.farming = 70
+self.smite = 70
+self.motivation = 100

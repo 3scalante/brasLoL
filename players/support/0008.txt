@@ -1,0 +1,17 @@
+self.image = players/mid/photos/kami.png
+self.code = 0008
+self.function = support
+self.name = Caio
+self.nickname = Loop
+self.last_Name =  Almeida
+self.team = 0001
+self.especiatility = protect
+self.mechanics = 72
+self.game_Vision = 80
+self.team_Play = 70
+self.aggressivity = 70
+self.passivity = 72
+self.gank_effectivity = 68
+self.warding = 74
+self.protect = 80
+self.motivation = 100

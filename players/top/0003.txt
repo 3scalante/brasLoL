@@ -1,0 +1,16 @@
+self.image = players/mid/photos/kami.png
+self.code = 0003
+self.function = top
+self.name = Marcelo
+self.nickname = Ayel
+self.last_Name = Mello
+self.team = 0002
+self.especiatility = assassin
+self.mechanics = 79
+self.game_Vision = 64
+self.team_Play = 64
+self.aggressivity = 79
+self.passivity = 64
+self.roaming = 80
+self.farming = 70
+self.motivation = 100

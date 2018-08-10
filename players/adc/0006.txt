@@ -1,0 +1,17 @@
+self.image = players/mid/photos/kami.png
+self.code = 0006
+self.function = adc
+self.name = Micael
+self.nickname = Micao
+self.last_Name = Rodrigues de Araújo
+self.team = 0002
+self.especiatility = kiting
+self.mechanics = 70
+self.game_Vision = 80
+self.team_Play = 70
+self.aggressivity = 75
+self.passivity = 70
+self.kiting = 78
+self.posicion = 64
+self.farming = 70
+self.motivation = 100

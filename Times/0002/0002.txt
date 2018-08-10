@@ -1,0 +1,20 @@
+self.code = 0002
+self.name = INTZ e-Sports
+self.logo = Times/0002/INTZ.png
+self.coach = Peter
+self.entaglement = 60
+self.income = 500
+self.cash = 50000
+
+self.strength_Total
+self.strength_Early_Game
+self.strength_Mid_Game
+self.strength_Late_Game
+
+self.strength_Siege
+self.strength_Gank
+self.strength_Dragons
+self.strength_Baron
+self.strength_inLane
+self.strength_Attack
+self.strength_Defense

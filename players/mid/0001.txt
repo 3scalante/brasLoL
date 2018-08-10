@@ -1,0 +1,16 @@
+self.image = players/mid/photos/kami.png
+self.code = 0001
+self.function = mid
+self.name = Bruno
+self.nickname = Envy
+self.last_Name = Ventura
+self.team = 0002
+self.especiatility = mage
+self.mechanics = 64
+self.game_Vision = 60
+self.team_Play = 58
+self.aggressivity = 70
+self.passivity = 70
+self.roaming = 80
+self.farming = 80
+self.motivation = 100

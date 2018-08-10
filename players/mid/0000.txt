@@ -1,0 +1,16 @@
+self.image = players/mid/photos/kami.png
+self.code = 0000
+self.function = mid
+self.name = Gabriel
+self.nickname = Kami
+self.last_Name = Bohm
+self.team = 0001
+self.especiatility = mage
+self.mechanics = 71
+self.game_Vision = 74
+self.team_Play = 60
+self.aggressivity = 60
+self.passivity = 80
+self.roaming = 80
+self.farming = 70
+self.motivation = 100
